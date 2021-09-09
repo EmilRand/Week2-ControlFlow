@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\bin\Debug\netcoreapp3.1\DrivingLisence.exe
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\bin\Debug\netcoreapp3.1\DrivingLisence.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\bin\Debug\netcoreapp3.1\DrivingLisence.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\bin\Debug\netcoreapp3.1\DrivingLisence.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\bin\Debug\netcoreapp3.1\DrivingLisence.dll
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\bin\Debug\netcoreapp3.1\DrivingLisence.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.dll
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\DrivingLisence\obj\Debug\netcoreapp3.1\DrivingLisence.genruntimeconfig.cache
